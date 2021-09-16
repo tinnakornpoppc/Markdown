@@ -3,4 +3,4 @@
 __Google__
 **Google**
 
-&#xf044;
+<i class="fal fa-edit"></i>
