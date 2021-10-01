@@ -1,3 +1,14 @@
+## Custom CSS
+```css
+img[alt$="><"] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none!important;
+}
+```
+
 <script src="https://gist.github.com/tinnakornpoppc/71372bc7a4dc92badafd4efb29cc1511.js"></script>
 
 
